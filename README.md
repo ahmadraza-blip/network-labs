@@ -29,6 +29,13 @@ for a SOC Analyst career.
 
 Cisco Packet Tracer
 
+## How to Open a Lab
+
+1. Install Cisco Packet Tracer
+2. Open the **packet-tracer-labs** folder and click the `.pkt` file
+3. Click the download icon (top right)
+4. Double-click the downloaded file, or use File > Open in Packet Tracer
+
 ## Author
 
 Ahmad Raza | Aspiring SOC Analyst
